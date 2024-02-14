@@ -1,0 +1,37 @@
+
+
+@font-face {
+    font-family: KOMIKAX_;
+    src: url("fonts/KOMIKAX_.ttf");
+}
+
+@font-face {
+    font-family: Utendo-Regular;
+    src: url("fonts/Utendo-Regular.ttf");
+}
+
+body {
+    background-image: url("images/mainBG.jpg");
+}
+
+
+#main-form-title {
+    font-family: KOMIKAX_;
+    color: #93635e
+}
+
+#main-tagline {
+    font-family: KOMIKAX_;
+    color: #93635e
+}
+
+#photo-description {
+    font-family: Utendo-Regular;
+    color: #93635e
+}
+
+#main-questions {
+    font-family: Utendo-Regular;
+    color: #93635e
+}
+
